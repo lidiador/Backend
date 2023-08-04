@@ -1,0 +1,7 @@
+__pycache*
+.pytest_cache
+/tesresults/
+/test-results/
+*.xml
+.coverage
+/venv
